@@ -9,11 +9,9 @@ Hi my name is Brayon silva,
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 - 🎓 Systems analysis and development student (Ampli)
+<br>
 - 🌐 Web development enthusiast
 ##
-
-  
-  ##
  
 <div> 
   <a href="https://www.instagram.com/gabriel.xyk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
