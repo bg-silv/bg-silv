@@ -8,7 +8,7 @@ Hi my name is Brayon silva,
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-##
+<hr>
 - 🎓 Systems analysis and development student (Ampli)
 <br>
 - 🌐 Web development enthusiast
